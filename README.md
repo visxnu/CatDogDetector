@@ -1,4 +1,4 @@
-CatDogDetector 🐱🐶
+# CatDogDetector 🐱🐶
 Welcome to CatDogDetector, a fun and powerful machine learning project that classifies images as either a cat or a dog with high accuracy! Built using Python and deep learning, this project is perfect for pet enthusiasts, machine learning beginners, and anyone curious about computer vision.
 
   
