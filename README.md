@@ -128,10 +128,3 @@ Have questions or suggestions? Feel free to open an issue or reach out to [visxn
   <b>Star this repo if you love cats, dogs, or machine learning! 🌟</b>
 </p>
 ```
-
-### Notes:
-- **Format**: The content is provided in raw Markdown, ready to be copied into your `README.md` file on GitHub.
-- **Attractiveness**: Includes badges, emojis, a centered GIF, and a clean structure to make it visually appealing.
-- **Correctness**: The file is properly formatted with consistent Markdown syntax, working links, and accurate instructions based on typical project setups.
-- **Customization**: If your project has specific details (e.g., different dataset, model accuracy, or folder structure), let me know, and I can tailor it further!
-- **Assumptions**: I assumed a standard ML project structure and tools like TensorFlow/Keras. If you use different frameworks (e.g., PyTorch), I can adjust the README accordingly.
